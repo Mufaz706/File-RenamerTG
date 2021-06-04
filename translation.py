@@ -64,10 +64,10 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://t.me/Ns_AnoNymouS)
+**👨‍💻 Developer:** [ᴍᴜꜰᴀᴢ](https://t.me/Mufaz123)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+**📮 Channel:** [Mallu Cartoonzz](https://t.me/Mallu_Cartoonzz)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/Ns_Bot_supporters)
+**👥 Group:** [Mallu Cartoonzz Group](https://t.me/Mallu_Cartoonzz_chat)
 
-**💻 Source Code:**[Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)"""
+**💻 Source Code:**[Press Me](https://t.me/mufaz123)"""
