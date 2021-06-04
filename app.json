@@ -10,7 +10,7 @@
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
   "website": "https://github.com/SpEcHiDe/AnyDLBot",
-  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
+  "repository": "https://github.com/Mufaz706/TG-Rename-Bot",
   "logo": "https://telegra.ph/file/681227bece69de877e442.jpg",
   "env": {
     "WEBHOOK": {
@@ -23,7 +23,7 @@
     },
     "USER_NAME": {
       "description": "Your user name like @Ns_AnoNymouS",
-      "value": "@Ns_AnoNymouS"
+      "value": "@Mufaz123"
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
@@ -39,7 +39,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "1337144652"
+      "value": "1247076052"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
