@@ -25,7 +25,7 @@ from translation import Translation
 import pyrogram
 logging.getLogger("pyrogram").setLevel(logging.WARNING)
 
-myfather = 'https://t.me/{}'.format(Config.USER_NAME[1:])
+My father = 'https://t.me/Mufaz123'.format(Config.USER_NAME[1:])
 
 
 
@@ -63,7 +63,7 @@ async def start(bot, update):
         reply_markup=InlineKeyboardMarkup(
         [
           [
-          InlineKeyboardButton('My Father 👨‍💻', url=myfather)
+          InlineKeyboardButton('My Father 👨‍💻', url=Https://t.me/mufaz123)
           ]
         ]
        )
@@ -88,7 +88,7 @@ async def donate(bot, update):
              reply_markup=InlineKeyboardMarkup(
              [
                [
-                 InlineKeyboardButton('Donate 💰', url='http://paypal.me/maheshmalekar')
+                 InlineKeyboardButton('Donate 💰', url='http://paypal.me/Mufaz123')
                ]
              ]
            )
